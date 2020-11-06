@@ -1,6 +1,6 @@
 Rest API and a simple CLI 'energy_group012' to invoke it.
 ============
-******CLUSTER IS SHUT DOWN*****
+******CLUSTER (Database in cloud service) IS SHUT DOWN*****
 
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
