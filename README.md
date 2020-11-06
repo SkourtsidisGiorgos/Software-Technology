@@ -41,3 +41,6 @@ USAGE
 ...
 ```
 
+#Data for the Database
+Download the energy data in order to create the database [here](https://www.dropbox.com/s/kn8mwyize7jv0hb/10daysData.zip?dl=0)
+and [here](https://www.dropbox.com/s/zn7ajtlgdkp0vi3/referenceTables.zip?dl=0) or in .xlxs format [here](https://www.dropbox.com/s/kwmfreqnn1kmkqg/10days%28values%29.xlsx?dl=0)
