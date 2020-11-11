@@ -8,9 +8,9 @@ The scope of the work is limited to 3 selected datasets.
 The aim is to develop a software system for the import of selected sets of electricity market data available from transparency.entsoe.eu into a Database (data import) and their availability, with controlled access, through a RESTful Web API.
 
 The selected datasets are as follows:
-1. ActualTotalLoad. It contains the actual energy consumed (load) in a spatial range to which it refers (country or market area). The values ​​it contains (MWh) are derived from measurements of the electricity distribution system after consumption, eg the next day.
-2. DayAheadTotalLoadForecast. It contains a forecast for the total energy demand for the next day, in a spatial scope to which it refers (country or market area). The values ​​it contains (MWh) are calculated from mathematical prediction models.
-3. AggregatedGenerationPerType. It concerns the analysis of the actual energy production in the country or zone to which it refers, depending on the method of production (thermal, wind, solar, nuclear, etc.). It contains values ​​(MWh) that have been accumulated by way of electricity generation.
+1. ActualTotalLoad: It contains the actual energy consumed (load) in a spatial range to which it refers (country or market area). The values ​​it contains (MWh) are derived from measurements of the electricity distribution system after consumption, eg the next day.
+2. DayAheadTotalLoadForecast: It contains a forecast for the total energy demand for the next day, in a spatial scope to which it refers (country or market area). The values ​​it contains (MWh) are calculated from mathematical prediction models.
+3. AggregatedGenerationPerType: It concerns the analysis of the actual energy production in the country or zone to which it refers, depending on the method of production (thermal, wind, solar, nuclear, etc.). It contains values ​​(MWh) that have been accumulated by way of electricity generation.
 
 
 The system consists of:
